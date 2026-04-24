@@ -188,7 +188,7 @@ The final output is a 6-sheet Excel workbook that operationalizes the full model
 
 ## Dashboard Preview
 
-![Credit Risk Decision Dashboard](assets/dashboard_preview.png)
+![Credit Risk Decision Dashboard](https://github.com/favouritefavil/CASHFLOW-BASED-CREDIT-RISK-MODEL/blob/main/CASHFLOW%20CREDIT%20SCORING%20RENT%20FINANCING/assets/RENT%20LENDING%20DASHBOARD.png)
 
 The dashboard displays portfolio KPIs (2,000 borrowers, 3% High Risk, 55% Medium Risk, 42% Low Risk, average default probability 0.50), risk distribution by scorecard band, scorecard vs ML alignment, default probability distribution, key risk drivers from model coefficients, and segmentation by employment type and risk category.
 
